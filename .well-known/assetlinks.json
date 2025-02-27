@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.dreamrunner",
+    "sha256_cert_fingerprints": ["085572F0E814541C34E8106AC867176092E58E6002D199555E019DCD5881F5E9"]
+  }
+}]
